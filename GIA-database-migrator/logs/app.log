@@ -343,3 +343,271 @@
 2014-lokakuuta-03 17:35:10.431 [AWT-EventQueue-0] INFO restConnector.java:76 - REST connartingection STARTED.
 2014-lokakuuta-03 17:40:23.197 [AWT-EventQueue-0] INFO restConnector.java:46 - Starting REST connection...
 2014-lokakuuta-03 17:40:23.904 [AWT-EventQueue-0] INFO restConnector.java:76 - REST connartingection STARTED.
+2014-lokakuuta-06 13:50:01.347 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-06 13:50:06.379 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-06 13:50:19.508 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-06 13:50:21.077 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-06 13:50:21.830 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-06 13:50:21.832 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-06 13:50:21.832 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : [***** Alert Details *****
+PasID=0
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-06 13:50:56.457 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-06 13:50:57.882 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-06 13:50:58.483 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-06 13:50:58.483 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : /n[{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-06 13:50:58.484 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : [***** Alert Details *****
+PasID=0
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-06 13:51:36.269 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-06 13:51:37.381 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-06 13:51:38.321 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-06 13:51:38.322 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-06 13:51:38.326 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : /n[***** Alert Details *****
+PasID=0
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-06 13:52:48.401 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-06 13:52:49.487 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-06 13:52:50.097 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-06 13:52:50.100 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-06 13:52:50.101 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=0
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 13:55:08.277 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 13:55:12.538 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 13:55:12.943 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 13:55:12.944 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 13:55:12.946 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 13:55:28.230 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 13:55:29.249 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 13:55:29.685 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 13:55:29.686 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 13:55:29.686 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 13:55:42.449 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 13:55:43.691 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 13:55:44.423 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 13:55:44.424 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 13:55:44.424 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 13:59:03.882 [AWT-EventQueue-0] INFO Main.java:26 - Starting application
+2014-lokakuuta-07 13:59:04.419 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 13:59:05.361 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 13:59:05.745 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 13:59:05.746 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 13:59:05.747 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 14:16:16.957 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:20:31.579 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:23:03.944 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:23:28.145 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:24:31.818 [AWT-EventQueue-0] DEBUG Main.java:42 - Done
+2014-lokakuuta-07 14:30:26.643 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:30:29.231 [AWT-EventQueue-0] DEBUG Main.java:42 - Done
+2014-lokakuuta-07 14:30:59.708 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:32:44.478 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:33:27.328 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:33:42.867 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:33:43.278 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 14:33:44.250 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 14:33:44.779 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 14:33:44.780 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 14:33:44.781 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 14:47:03.663 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:47:04.076 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 14:47:05.210 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 14:47:05.609 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 14:47:05.610 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 14:47:05.612 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 14:55:19.018 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:55:19.461 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 14:55:20.478 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 14:55:20.961 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 14:55:20.962 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 14:55:20.962 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 14:56:14.606 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 14:56:15.010 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 14:56:15.961 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 14:56:16.442 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 14:56:16.442 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 14:56:16.443 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 15:00:00.756 [AWT-EventQueue-0] DEBUG Main.java:42 - Done
+2014-lokakuuta-07 15:07:51.837 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 15:07:52.281 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 15:07:53.261 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 15:07:53.688 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 15:07:53.689 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 15:07:53.689 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 15:07:57.995 [AWT-EventQueue-0] DEBUG Main.java:42 - Done
+2014-lokakuuta-07 15:08:15.287 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 15:08:15.692 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 15:08:16.700 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 15:08:17.139 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 15:08:17.140 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 15:08:17.141 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 15:08:22.739 [AWT-EventQueue-0] DEBUG Main.java:42 - Done
+2014-lokakuuta-07 15:08:40.377 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 15:08:40.801 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 15:08:41.759 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 15:08:42.186 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 15:08:42.187 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 15:08:42.188 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 15:08:44.011 [AWT-EventQueue-0] DEBUG Main.java:42 - Done
+2014-lokakuuta-07 15:09:07.101 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 15:09:07.522 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 15:09:08.487 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 15:09:08.895 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 15:09:08.895 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 15:09:08.896 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 15:09:33.812 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 15:09:34.232 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 15:09:35.259 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 15:09:35.696 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 15:09:35.698 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 15:09:35.711 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 15:11:07.919 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 15:11:08.341 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 15:11:09.349 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 15:11:09.744 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 15:11:09.745 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 15:11:09.752 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 15:22:27.325 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 15:22:27.771 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 15:22:28.734 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 15:22:29.123 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 15:22:29.125 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 15:22:29.125 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 15:22:38.793 [AWT-EventQueue-0] DEBUG Main.java:42 - Done
+2014-lokakuuta-07 15:30:43.695 [AWT-EventQueue-0] INFO Main.java:30 - Starting application
+2014-lokakuuta-07 15:30:44.311 [AWT-EventQueue-0] INFO restConnector.java:49 - Starting REST connection...
+2014-lokakuuta-07 15:30:45.375 [AWT-EventQueue-0] INFO restConnector.java:79 - REST connartingection STARTED.
+2014-lokakuuta-07 15:30:45.891 [AWT-EventQueue-0] INFO restConnector.java:93 - Java Object created from JSON String 
+2014-lokakuuta-07 15:30:45.892 [AWT-EventQueue-0] INFO restConnector.java:94 - JSON String : [{"PasID":102,"Status":"Active","Shared":false,"Header":"instant alert testing","Description":"Testing the instant alert"}]
+2014-lokakuuta-07 15:30:45.892 [AWT-EventQueue-0] INFO restConnector.java:95 - Java Object : 
+[***** Alert Details *****
+PasID=102
+Status=Active
+Shared=false
+Header=instant alert testing
+Description=null
+*****************************]
+2014-lokakuuta-07 15:30:48.671 [AWT-EventQueue-0] DEBUG Main.java:42 - Done

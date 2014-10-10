@@ -11,17 +11,15 @@ import com.fasterxml.jackson.annotation.JsonInclude.Include;
 
 
 
-
+@JsonIgnoreProperties(ignoreUnknown = true)
+@JsonInclude(Include.NON_EMPTY)
 public class Alert {
-	@JsonIgnoreProperties(ignoreUnknown = true)
-	@JsonInclude(Include.NON_EMPTY)
-	public static class AlertContents {		
+	
+	
 		
 		
-		@JsonProperty("msgs")
-	    @com.fasterxml.jackson.annotation.JsonProperty("msgs")
-		private int pasID;
-		
+	
+		private int pasID;		
 		private String status;
 		private boolean shared;
 		private String header;
@@ -34,7 +32,7 @@ public class Alert {
 			return pasID;
 		}
 
-		public void setPasID( @JsonProperty("PasID") int pasID) {
+		public void setPasID(int pasID) {
 			this.pasID = pasID;
 		}
 
@@ -86,6 +84,6 @@ public class Alert {
 		
 		
 		
-	}
-
 }
+
+

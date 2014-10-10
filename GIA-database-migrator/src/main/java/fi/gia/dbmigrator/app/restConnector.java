@@ -1,6 +1,9 @@
 package fi.gia.dbmigrator.app;
 
+import java.util.List;
+
 import org.codehaus.jackson.map.ObjectMapper;
+import org.codehaus.jackson.type.TypeReference;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -31,7 +34,7 @@ private static final Logger LOGGER = LoggerFactory.getLogger(restConnector.class
 	}
 	
 	private static String user = "samu_admin";
-	
+	private static String pwd = "teiqu6beE!";
 	private static String pwd2 = "575756156550AD51F42B73951B5B73B0";
 	
 	public static String encode(String user, String pwd) { 
@@ -78,18 +81,21 @@ private static final Logger LOGGER = LoggerFactory.getLogger(restConnector.class
 	 
 			
 			String output = response.getEntity(String.class);		
-			output = output.replace("[", "").replace("]", "");
-			System.out.println(output);
+			
+System.out.println(output);
 			
 			ObjectMapper mapper = new ObjectMapper();			
-			  mapper.setPropertyNamingStrategy(new MyNameStrategy());
+			 mapper.setPropertyNamingStrategy(new MyNameStrategy());
 			 
-
+			 List<Alert> alert = mapper.readValue(output, new TypeReference<List<Alert>>(){});
 			
-			Alert alert = mapper.readValue(output, Alert.class);
+		//	AlertList alert = mapper.readValue(output, Alert.class);
 			restConnector.LOGGER.info("Java Object created from JSON String ");
 			restConnector.LOGGER.info("JSON String : " + output);
-			restConnector.LOGGER.info("Java Object : " + alert.toString());
+			restConnector.LOGGER.info("Java Object : \n" + alert.toString());
+			
+			//System.out.println(alert.get(0).getHeader());
+
 
 
 		  } catch (Exception e) {
@@ -99,6 +105,10 @@ private static final Logger LOGGER = LoggerFactory.getLogger(restConnector.class
 	 
 		  }
 		
+		
+	}
+	
+	public void close() {
 		
 	}
 	
