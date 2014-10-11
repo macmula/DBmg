@@ -34,7 +34,7 @@ private static final Logger LOGGER = LoggerFactory.getLogger(restConnector.class
 	}
 	
 	private static String user = "samu_admin";
-	private static String pwd = "teiqu6beE!";
+
 	private static String pwd2 = "575756156550AD51F42B73951B5B73B0";
 	
 	public static String encode(String user, String pwd) { 
